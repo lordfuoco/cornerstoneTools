@@ -34,6 +34,7 @@ export { default as ZoomTouchPinchTool } from './tools/ZoomTouchPinchTool.js';
 export { default as ZoomMouseWheelTool } from './tools/ZoomMouseWheelTool.js';
 export { default as CrosshairsTool } from './tools/CrosshairsTool.js';
 export { default as BrushTool } from './tools/BrushTool.js';
+export { default as BidirectionalTool } from './tools/BidirectionalTool.js';
 
 // Exposed entities for 3rd party plugins
 export { default as import } from './thirdParty/import.js';
